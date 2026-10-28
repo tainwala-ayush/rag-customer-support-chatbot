@@ -213,5 +213,3 @@ Potential improvements include:
 **Ayush Tainwala**
 
 GitHub: [@tainwala-ayush](https://github.com/tainwala-ayush)
-
-No license has been specified for this project. Add a license if you intend to define how others may use, modify, or distribute the code.
